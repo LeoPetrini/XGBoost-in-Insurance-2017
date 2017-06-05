@@ -1,3 +1,4 @@
 materials
 ./models/*.RData
 ./code/04_plots.R
+*.Rhistory
